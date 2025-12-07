@@ -48,7 +48,7 @@ pip install torch torchvision numpy matplotlib pillow tqdm
 LeNet-MNIST/
 ├── LeNet_MNIST.ipynb          # Main notebook with training and inference code
 ├── model.pth                   # Pre-trained model weights
-├── 939-9392093_handwritten-5 (1).png  # Sample test image
+├── test.png  # Sample test image
 └── README.md                   # This file
 ```
 
